@@ -50,7 +50,7 @@ class _MytablecelendarState extends State<Mytablecelendar> {
           ),
         ),
         const SizedBox(
-          height: 30,
+          height: 3,
         ),
         Text("Selected Day = ${today.toString().split(" ")[0]}"),
       ],
